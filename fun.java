@@ -80,13 +80,13 @@ public class fun {
 								Ins = "Dumby !";
 							} else {
 								if (insult == 4) {
-									Ins = "Lardy !";
+									Ins = "Uncultured swine !";
 								} else {
 									if (insult == 5) {
 										Ins = "b-b-b-b-b-b-b-BAKA!!!!";
 									} else {
 										if (insult == 6)
-											Ins = "Fluffy tum !";
+											Ins = "Honzo main !";
 									}
 								}
 							}
